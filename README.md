@@ -8,9 +8,9 @@ Un système CLI pour gérer un catalogue de livres avec fonctionnalités de tri,
 ## Membres du groupe
 - NGOY MELOA Emmanuel (data_manager.py)
 - NGOY MELOA Emmanuel  (search_engine.py)
-- NGOY BULUNGI Riben (sort_engine.py)
-- NOTIA MUKOLA Anais (loan_manager.py)
-- Nom 5 (cli_interface.py)
+- NOTIA MUKOLA Anais (sort_engine.py)
+- Daniella (loan_manager.py)
+- NGOY BULUNGI Riben (cli_interface.py)
 
 ##  Fonctionnalités
 - Ajouter / supprimer / modifier des livres
